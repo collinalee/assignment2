@@ -1,0 +1,77 @@
+/* CSS Document */
+
+/* FONT OPTIONS
+
+font-family: 'Outfit', sans-serif;
+---Extra-light (200)
+---Regular (400)
+---Extra-Bold (800)
+
+font-family: 'Rampart One', cursive;
+
+font-family: 'Special Elite', cursive;
+
+*/
+
+body {
+	background-color: orangered;
+	font-family: 'Special Elite', cursive;
+}
+
+h1 {
+font-family: 'Rampart One', cursive;
+}
+
+h3 {
+	font-family: 'Special Elite', cursive;
+	text-decoration: underline;
+}
+
+.accordion {
+	color: black;
+	text-align: left;
+}
+
+.homepage-main-content {
+	padding: 3em;
+	margin: 3em;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+}
+
+.matrices {
+	border: medium solid black;
+}
+
+.matrices-main {
+	background-color: white;
+	color: black;
+	border-radius: 25px;
+	padding: 1rem;
+}
+
+.blank-spot{
+	background-color: black;
+}
+
+.homepage-main-topics i {
+	font-size: 5em;
+	color: orangered;
+}
+
+.homepage-main-topics a {
+	
+	text-decoration: none;
+	color: white;
+}
+.homepage-main-topics a:hover {
+	
+	color: lemonchiffon;
+}
+
+.card {
+	color: black;
+	margin: 10px;
+}
